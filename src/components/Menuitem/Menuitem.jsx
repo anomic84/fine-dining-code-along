@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Menuitem = () => {
+const MenuItem = () => {
   return (
     <div>Menuitem</div>
   )
 }
 
-export default Menuitem
+export default MenuItem
